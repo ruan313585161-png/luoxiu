@@ -1,0 +1,39 @@
+filters:
+  and:
+    - source == "雪球网"
+    - file.folder.contains("雪球网")
+properties:
+  file.name:
+    displayName: 大V名字
+  note.fans:
+    displayName: 粉丝数量
+  note.rating:
+    displayName: 关注等级
+  note.stocks:
+    displayName: 持仓股票
+  note.url:
+    displayName: 直达链接
+  note.source:
+    displayName: 文章来源
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - fans
+      - rating
+      - stocks
+      - url
+      - source
+    sort:
+      - property: rating
+        direction: DESC
+      - property: fans
+        direction: DESC
+      - property: source
+        direction: ASC
+    columnSize:
+      file.name: 212
+      note.fans: 87
+      note.stocks: 182
+      note.url: 277

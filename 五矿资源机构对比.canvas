@@ -1,0 +1,12 @@
+{
+	"nodes":[
+		{"id":"191511645c5246f2","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":""},
+		{"id":"ee1dc8c26bb105ac","x":-125,"y":-30,"width":250,"height":60,"type":"text","text":"五矿资源机构对比"},
+		{"id":"59e1210a9b79032c","x":-440,"y":220,"width":400,"height":440,"type":"file","file":"01--持仓股/五矿资源/五矿资源--高盛--2026年03月05日--目标价13.5港元.md"},
+		{"id":"85a08884ccc63051","x":0,"y":220,"width":400,"height":440,"type":"file","file":"01--持仓股/五矿资源/五矿资源--花旗--2026年03月04日--目标价12.5港元.md"}
+	],
+	"edges":[
+		{"id":"57669255bc737e5d","fromNode":"59e1210a9b79032c","fromSide":"top","toNode":"191511645c5246f2","toSide":"bottom"},
+		{"id":"07bb137e937454f8","fromNode":"85a08884ccc63051","fromSide":"top","toNode":"191511645c5246f2","toSide":"bottom"}
+	]
+}
