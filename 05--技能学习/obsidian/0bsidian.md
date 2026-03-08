@@ -31,7 +31,7 @@ obsidian 大V跟踪笔记
 - 手动：`Ctrl+P` → `Git: Commit all changes` → `Git: Push` 提交文件
 
 
-## 1. 登录 Tushare 官网  免费A股API
+## 1. 登录 Tushare 官网  免费A股API    ---不推荐耗费积分没用
 https://tushare.pro
 ## 2. 获取 Token
 - 登录后点击右上角 **"个人主页"**

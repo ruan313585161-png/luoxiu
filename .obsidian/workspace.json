@@ -11,13 +11,15 @@
             "id": "0392819568cbb6b3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "大V跟踪.base",
-                "viewName": "表格"
+                "file": "05--技能学习/obsidian/0bsidian.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "大V跟踪"
+              "icon": "lucide-file",
+              "title": "0bsidian"
             }
           }
         ]
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tushare",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -73,7 +75,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -155,13 +158,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大V跟踪.base",
+                "file": "05--技能学习/obsidian/0bsidian.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大V跟踪 的大纲"
+              "title": "0bsidian 的大纲"
             }
           },
           {
@@ -209,10 +212,10 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
+    "大V跟踪.base",
     "03--大V跟踪/雪球网/范范老师的投资笔记/范范老师的投资笔记.md",
     "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月7日--范范老师的投资笔记--公布一下近期的操作.md",
     "03--大V跟踪/雪球网/范范老师的投资笔记/2026年01月23日--范范老师的投资笔记--说说当下的银行股.md",
-    "大V跟踪.base",
     "05--技能学习/agent-browser-0.2.0.zip",
     "05--技能学习/未确认 620372.crdownload",
     "关注股数据库.base",
@@ -246,7 +249,6 @@
     "04--行业资料/宏观研究/中国人民银行（央行）的黄金储备.md",
     "02--关注股(股票--大V--日期--观点）/京东方A/京东方A--大黄蚬子hgx--2026年01月14日--看涨.md",
     "Pasted image 20260307122708.png",
-    "02--关注股(股票--大V--日期--观点）/京东方A/京东方A.md",
     "Pasted image 20260306181624.png",
     "Pasted image 20260306181552.png",
     "Pasted image 20260306181632.png",
