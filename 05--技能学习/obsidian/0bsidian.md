@@ -27,3 +27,5 @@ obsidian 大V跟踪笔记
 **日常使用：**
 - `Ctrl+P` 输入 `Git: Commit all changes` 提交    
 - `Ctrl+P` 输入 `Git: Pull` 拉取远程更新
+
+- 手动：`Ctrl+P` → `Git: Commit all changes` → `Git: Push` 提交文件
