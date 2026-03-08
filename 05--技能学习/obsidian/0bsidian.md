@@ -29,3 +29,12 @@ obsidian 大V跟踪笔记
 - `Ctrl+P` 输入 `Git: Pull` 拉取远程更新
 
 - 手动：`Ctrl+P` → `Git: Commit all changes` → `Git: Push` 提交文件
+
+
+## 1. 登录 Tushare 官网  免费A股API
+https://tushare.pro
+## 2. 获取 Token
+- 登录后点击右上角 **"个人主页"**
+  在 **"接口TOKEN"** 栏目下找到你的 Token
+    
+fbe73229d734aa04b8c88f61957577d15c2a6c8cf05bd94f0050a514
