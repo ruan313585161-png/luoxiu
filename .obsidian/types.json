@@ -5,6 +5,7 @@
     "tags": "tags",
     "stocks": "multitext",
     "rating": "text",
-    "nickname": "text"
+    "nickname": "text",
+    "Holding": "multitext"
   }
 }

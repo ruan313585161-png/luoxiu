@@ -11,28 +11,19 @@ rating: ⭐⭐⭐
 nickname: 大黄蚬子hgx
 ---
 
-
-### 全部观点
+### 全部文章
 ```dataview
-TABLE 
-  regexreplace(file.name, "--.*", "") as 股票,
-  regexreplace(file.name, ".*--(\\d{4}年\\d{1,2}月\\d{1,2}日)--.*", "$1") as 日期,
-  regexreplace(file.name, ".*--", "") as 观点评级
-WHERE contains(file.name, "大黄蚬子hgx")
+TABLE without id
+  file.link as 文件列表,
+  split(file.name, "--")[0] as 股票或日期,
+  split(file.name, "--")[1] as 大V,
+  choice(
+    length(split(file.name, "--")) = 3,
+    split(file.name, "--")[2],
+    split(file.name, "--")[3]
+  ) as 观点
+FROM "03--大V跟踪" OR "01--持仓股(股票--大V--日期--观点）" OR "02--关注股(股票--大V--日期--观点）"
+WHERE contains(file.name, "大黄蚬子hgx")  // ← 改成硬编码，不用 this.file.title
 WHERE file.name != this.file.name
 SORT 日期 DESC
-```
-
-### 筛选看涨
-```dataview
-LIST
-WHERE contains(file.name, "大黄蚬子hgx") 
-WHERE regexreplace(file.name, ".*--", "") = "看涨"
-SORT file.name DESC
-```
-
-```dataview
-TABLE source, nickname, fans
-FROM "03--大V跟踪"
-WHERE file.name = "大黄蚬子hgx"
 ```

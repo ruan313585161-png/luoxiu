@@ -17,4 +17,13 @@ obsidian 大V跟踪笔记
 1  手动录入,大V 发帖关于某个股票的逻辑文章,能按日期排序,
 2 方便筛选关于某个股票的所有大V观点.
 3 方便数据验证对比,比如PFD的研报出来,可以跟以前的数据直接对比,方便跟踪,修改
-  
+
+**验证通过：** GitHub 用户名 `ruan313585161-png`
+**Token 是：** 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`
+仓库地址：https://github.com/ruan313585161-png/luoxiu/
+
+[tavily.com](https://tavily.com/)   export TAVILY_API_KEY=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
+
+**日常使用：**
+- `Ctrl+P` 输入 `Git: Commit all changes` 提交    
+- `Ctrl+P` 输入 `Git: Pull` 拉取远程更新

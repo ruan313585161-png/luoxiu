@@ -1,0 +1,26 @@
+filters:
+  and:
+    - file.folder.containsAny("关注股", "持仓股")
+    - source == "同花顺"
+properties:
+  file.name:
+    displayName: 股票名称
+  note.source:
+    displayName: 数据来源
+  note.Holding:
+    displayName: 是否持仓
+views:
+  - type: table
+    name: 表格
+    order:
+      - file.name
+      - Holding
+      - source
+    sort:
+      - property: Holding
+        direction: ASC
+      - property: file.name
+        direction: ASC
+    columnSize:
+      file.name: 165
+      note.source: 957
