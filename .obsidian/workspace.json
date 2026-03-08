@@ -4,41 +4,23 @@
     "type": "split",
     "children": [
       {
-        "id": "4c41130f6645164e",
+        "id": "b7a798cc89cd36eb",
         "type": "tabs",
         "children": [
           {
-            "id": "70323ff375020630",
+            "id": "0392819568cbb6b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "03--大V跟踪/雪球网/波西米亚弗雷迪/2026年02月27日--波西米亚弗雷迪--2026年2月总结.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "大V跟踪.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "2026年02月27日--波西米亚弗雷迪--2026年2月总结"
-            }
-          },
-          {
-            "id": "1e84884a19b7fdf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月7日--范范老师的投资笔记--公布一下近期的操作.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "2026年3月7日--范范老师的投资笔记--公布一下近期的操作"
+              "icon": "lucide-table",
+              "title": "大V跟踪"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "老师",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,8 +73,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -174,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月7日--范范老师的投资笔记--公布一下近期的操作.md",
+                "file": "大V跟踪.base",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026年3月7日--范范老师的投资笔记--公布一下近期的操作 的大纲"
+              "title": "大V跟踪 的大纲"
             }
           },
           {
@@ -226,22 +207,23 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1e84884a19b7fdf4",
+  "active": "0392819568cbb6b3",
   "lastOpenFiles": [
-    "03--大V跟踪/雪球网/范范老师的投资笔记/2026年01月23日--范范老师的投资笔记--说说当下的银行股.md",
-    "99--AI记忆/04-重要事件.md",
-    "99--AI记忆/README.md",
-    "99--AI记忆/03-偏好设置.md",
-    "99--AI记忆/01-用户画像.md",
-    "99--AI记忆/02-持仓记录.md",
-    "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月7日--范范老师的投资笔记--公布一下近期的操作.md",
-    "05--技能学习/obsidian/0bsidian.md",
-    "贴好运.md",
-    "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月3日--范范老师的投资笔记--加仓首程控股.md",
-    "03--大V跟踪/大V跟踪.md",
-    "大V跟踪.base",
     "关注股数据库.base",
     "五矿资源机构对比.canvas",
+    "99--AI记忆/README.md",
+    "99--AI记忆/04-重要事件.md",
+    "99--AI记忆/03-偏好设置.md",
+    "99--AI记忆/02-持仓记录.md",
+    "99--AI记忆/01-用户画像.md",
+    "99--AI记忆/daily/2026-03-08.md",
+    "大V跟踪.base",
+    "贴好运.md",
+    "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月7日--范范老师的投资笔记--公布一下近期的操作.md",
+    "03--大V跟踪/雪球网/范范老师的投资笔记/2026年01月23日--范范老师的投资笔记--说说当下的银行股.md",
+    "05--技能学习/obsidian/0bsidian.md",
+    "03--大V跟踪/雪球网/范范老师的投资笔记/2026年3月3日--范范老师的投资笔记--加仓首程控股.md",
+    "03--大V跟踪/大V跟踪.md",
     "03--大V跟踪/微信公众号/长安卫公/长安卫公.md",
     "03--大V跟踪/雪球网/未命名",
     "05--技能学习/技能学习.md",
@@ -253,7 +235,6 @@
     "05--技能学习/ai-news-collectors-1.0.0.zip",
     "05--技能学习/未确认 576283.crdownload",
     "05--技能学习/rss-ai-reader-1.0.0.zip",
-    "99--AI记忆/daily/2026-03-08.md",
     "00--收纳箱/股票持仓.md",
     "04--行业资料/宏观研究/海洋秩序的终结，一场远隔四十年的利益再分配.md",
     "雪球大V监控报告-20250306.md",
@@ -265,7 +246,6 @@
     "02--关注股(股票--大V--日期--观点）/京东方A/京东方A--大黄蚬子hgx--2026年01月14日--看涨.md",
     "Pasted image 20260307122708.png",
     "02--关注股(股票--大V--日期--观点）/京东方A/京东方A.md",
-    "04--行业资料/宏观研究/2026年3月6日--观察员罗纳德--算力产业链里一个被忽略的方向：储能名.md",
     "Pasted image 20260306181624.png",
     "Pasted image 20260306181552.png",
     "Pasted image 20260306181632.png",
