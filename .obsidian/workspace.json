@@ -11,13 +11,15 @@
             "id": "0392819568cbb6b3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "大V跟踪.base",
-                "viewName": "表格"
+                "file": "03--大V跟踪/雪球网/涛波依旧/2026年3月10日--涛波依旧--储能的增长空间究竟有多大？.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "大V跟踪"
+              "icon": "lucide-file",
+              "title": "2026年3月10日--涛波依旧--储能的增长空间究竟有多大？"
             }
           }
         ]
@@ -52,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "涛波依旧",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "大V跟踪.base",
+                "file": "03--大V跟踪/雪球网/涛波依旧/2026年3月10日--涛波依旧--储能的增长空间究竟有多大？.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大V跟踪 的大纲"
+              "title": "2026年3月10日--涛波依旧--储能的增长空间究竟有多大？ 的大纲"
             }
           },
           {
@@ -209,15 +211,19 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
-    "五矿资源机构对比.canvas",
+    "03--大V跟踪/雪球网/涛波依旧/涛波依旧.md",
+    "03--大V跟踪/雪球网/涛波依旧/2026年3月10日--涛波依旧--储能的增长空间究竟有多大？.md",
+    "03--大V跟踪/雪球网/投资就是算好账/投资就是算好账.md",
+    "大V跟踪.base",
+    "03--大V跟踪/雪球网/涛波依旧",
     "关注股数据库.base",
+    "99--AI记忆/模板/文章分析模板v2.0.md",
+    "五矿资源机构对比.canvas",
     "AI模板/文章分析模板.md",
     "雪球大V监控报告-20250306.md",
-    "99--AI记忆/模板/文章分析模板v2.0.md",
     "99--AI记忆/模板",
     "03--大V跟踪/雪球网/達人知命/達人知命.md",
     "03--大V跟踪/雪球网/達人知命",
-    "大V跟踪.base",
     "99--AI记忆/README.md",
     "99--AI记忆/05-配置信息.md",
     "99--AI记忆/04-重要事件.md",
@@ -238,13 +244,10 @@
     "99--AI记忆/reports/投资笔记--斯托伯的天空--流动性危机与美联储观察.md",
     "99--AI记忆/reports/投资笔记--斯托伯的天空--文章索引.md",
     "99--AI记忆/reports/投资笔记--斯托伯的天空--投资方法论与金句集锦.md",
-    "99--AI记忆/reports/投资笔记--斯托伯的天空--关于中海油与能源投资.md",
-    "99--AI记忆/reports/投资笔记--斯托伯的天空--个股分析集锦.md",
     "99--AI记忆/reports",
     "05--技能学习/trading-1.0.1.zip",
     "05--技能学习/未确认 231039.crdownload",
     "05--技能学习/agent-browser-0.2.0.zip",
-    "05--技能学习/未确认 620372.crdownload",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
     "Pasted image 20260306181552.png",
