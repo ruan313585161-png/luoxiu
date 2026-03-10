@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03--大V跟踪/雪球网/小谢价值投资/小谢价值投资.md",
+                "file": "AI模板/文章分析模板V1.0.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "小谢价值投资"
+              "title": "文章分析模板V1.0"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "阿猫投资",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "03--大V跟踪/雪球网/小谢价值投资/小谢价值投资.md",
+                "file": "AI模板/文章分析模板V1.0.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "小谢价值投资 的大纲"
+              "title": "文章分析模板V1.0 的大纲"
             }
           },
           {
@@ -211,8 +211,14 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
+    "99--AI记忆/模板/文章分析模板v2.0.md",
+    "03--大V跟踪/雪球网/阿猫投资/阿猫投资.md",
     "大V跟踪.base",
     "03--大V跟踪/雪球网/未命名",
+    "关注股数据库.base",
+    "五矿资源机构对比.canvas",
+    "99--AI记忆/reports/化工原料价格对比_3月6日vs3月9日.md",
+    "03--大V跟踪/雪球网/小谢价值投资/小谢价值投资.md",
     "03--大V跟踪/雪球网/山湖水/山湖水.md",
     "03--大V跟踪/大V跟踪.md",
     "03--大V跟踪/雪球网/涛波依旧/涛波依旧.md",
@@ -221,13 +227,9 @@
     "03--大V跟踪/雪球网/山湖水",
     "01--持仓股(股票--大V--日期--观点）/铜陵有色/铜陵有色--挚爱子洲--2026年02月04日--看涨.md",
     "03--大V跟踪/雪球网/涛波依旧/2026年3月10日--涛波依旧--储能的增长空间究竟有多大？.md",
-    "99--AI记忆/reports/化工原料价格对比_3月6日vs3月9日.md",
     "03--大V跟踪/雪球网/投资就是算好账/投资就是算好账.md",
     "03--大V跟踪/雪球网/涛波依旧",
-    "关注股数据库.base",
-    "99--AI记忆/模板/文章分析模板v2.0.md",
-    "五矿资源机构对比.canvas",
-    "AI模板/文章分析模板.md",
+    "AI模板/文章分析模板V1.0.md",
     "雪球大V监控报告-20250306.md",
     "99--AI记忆/模板",
     "03--大V跟踪/雪球网/達人知命/達人知命.md",
@@ -244,10 +246,7 @@
     "05--技能学习/技能学习.md",
     "AI模板",
     "05--技能学习/obsidian/0bsidian.md",
-    "99--AI记忆/reports/Kimi_K2.5_开源与模型对比分析.md",
-    "99--AI记忆/reports/投资笔记_斯托伯的天空_20260309.md",
     "99--AI记忆/reports",
-    "05--技能学习/trading-1.0.1.zip",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
     "Pasted image 20260306181552.png",
