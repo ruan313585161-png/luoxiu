@@ -11,13 +11,15 @@
             "id": "0392819568cbb6b3",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "关注股数据库.base",
-                "viewName": "表格"
+                "file": "03--大V跟踪/雪球网/達人知命/達人知命.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-table",
-              "title": "关注股数据库"
+              "icon": "lucide-file",
+              "title": "達人知命"
             }
           }
         ]
@@ -155,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "关注股数据库.base",
+                "file": "03--大V跟踪/雪球网/達人知命/達人知命.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "关注股数据库 的大纲"
+              "title": "達人知命 的大纲"
             }
           },
           {
@@ -209,8 +211,10 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
-    "大V跟踪.base",
     "关注股数据库.base",
+    "03--大V跟踪/雪球网/達人知命/達人知命.md",
+    "03--大V跟踪/雪球网/達人知命",
+    "大V跟踪.base",
     "AI模板/文章分析模板.md",
     "99--AI记忆/README.md",
     "99--AI记忆/05-配置信息.md",
@@ -236,14 +240,12 @@
     "99--AI记忆/reports/投资笔记--斯托伯的天空--个股分析集锦.md",
     "03--大V跟踪/雪球网/斯托伯的天空/投资笔记--斯托伯的天空--投资方法论与金句集锦.md",
     "03--大V跟踪/雪球网/斯托伯的天空/斯托伯的天空.md",
-    "03--大V跟踪/雪球网/范范老师的投资笔记/范范老师的投资笔记.md",
     "99--AI记忆/reports",
     "五矿资源机构对比.canvas",
     "05--技能学习/trading-1.0.1.zip",
     "05--技能学习/未确认 231039.crdownload",
     "05--技能学习/agent-browser-0.2.0.zip",
     "05--技能学习/未确认 620372.crdownload",
-    "03--大V跟踪/雪球网/未命名",
     "05--技能学习/reminder-0.1.1.zip",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
