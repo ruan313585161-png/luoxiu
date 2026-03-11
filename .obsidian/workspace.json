@@ -11,15 +11,13 @@
             "id": "0392819568cbb6b3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "bases",
               "state": {
-                "file": "01--持仓股(股票--大V--日期--观点）/卫星化学/卫星化学_002648_技术更新_27.76元_20260311.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
+                "file": "大V跟踪.base",
+                "viewName": "表格"
               },
-              "icon": "lucide-file",
-              "title": "卫星化学_002648_技术更新_27.76元_20260311"
+              "icon": "lucide-table",
+              "title": "大V跟踪"
             }
           }
         ]
@@ -209,10 +207,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "899a3911cb4e8f68",
+  "active": "0392819568cbb6b3",
   "lastOpenFiles": [
-    "99--AI记忆/README.md",
     "01--持仓股(股票--大V--日期--观点）/卫星化学/卫星化学_002648_技术更新_27.76元_20260311.md",
+    "99--AI记忆/README.md",
     "99--AI记忆/模板",
     "99--AI记忆/模板/03-偏好设置.md",
     "99--AI记忆/模板/05-配置信息.md",
