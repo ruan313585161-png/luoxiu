@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04--行业资料/宏观研究/储能学习.md",
+                "file": "99--AI记忆/templates/a-share-framework-comparison.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "储能学习"
+              "title": "a-share-framework-comparison"
             }
           }
         ]
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04--行业资料/宏观研究/储能学习.md",
+                "file": "99--AI记忆/templates/a-share-framework-comparison.md",
                 "followCursor": false,
                 "showSearch": true,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "储能学习 的大纲"
+              "title": "a-share-framework-comparison 的大纲"
             }
           },
           {
@@ -214,15 +214,17 @@
     "99--AI记忆/templates/technical-analysis-framework.md",
     "99--AI记忆/templates/ray-dalio-investment-framework.md",
     "99--AI记忆/templates/peter-lynch-investment-framework.md",
+    "99--AI记忆/templates/howard-marks-investment-framework.md",
+    "99--AI记忆/templates/china-top-fund-managers.md",
+    "99--AI记忆/templates/buffett-investment-framework.md",
     "99--AI记忆/templates/article-analysis-template-v2.md",
     "99--AI记忆/templates/article-analysis-template.md",
-    "99--AI记忆/templates/howard-marks-investment-framework.md",
-    "99--AI记忆/templates/buffett-investment-framework.md",
-    "99--AI记忆/templates/china-top-fund-managers.md",
     "99--AI记忆/templates/a-share-framework-comparison.md",
+    "99--AI记忆/模板/financial-report-scoring-framework.md",
+    "04--行业资料/宏观研究/储能学习.md",
+    "99--AI记忆/模板/未确认 35400.crdownload",
     "99--AI记忆/templates",
     "AI模板/文章分析模板V1.0.md",
-    "04--行业资料/宏观研究/储能学习.md",
     "99--AI记忆/daily/2026-03-10.md",
     "99--AI记忆/模板/文章分析模板v2.0.md",
     "03--大V跟踪/雪球网/阿猫投资/阿猫投资.md",
@@ -246,8 +248,6 @@
     "99--AI记忆/模板",
     "03--大V跟踪/雪球网/達人知命/達人知命.md",
     "03--大V跟踪/雪球网/達人知命",
-    "99--AI记忆/README.md",
-    "AI模板",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
     "Pasted image 20260306181552.png",
