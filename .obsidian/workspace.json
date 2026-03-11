@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99--AI记忆/templates/a-share-framework-comparison.md",
+                "file": "99--AI记忆/05-配置信息.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "a-share-framework-comparison"
+              "title": "05-配置信息"
             }
           }
         ]
@@ -209,14 +209,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "899a3911cb4e8f68",
+  "active": "0392819568cbb6b3",
   "lastOpenFiles": [
+    "AI模板/文章分析模板V1.0.md",
+    "99--AI记忆/daily/2026-03-10.md",
+    "99--AI记忆/daily/2026-03-09.md",
+    "99--AI记忆/daily/2026-03-08.md",
+    "99--AI记忆/templates/a-share-framework-comparison.md",
     "99--AI记忆/05-配置信息.md",
     "99--AI记忆/04-重要事件.md",
     "99--AI记忆/03-偏好设置.md",
     "99--AI记忆/02-持仓记录.md",
     "99--AI记忆/01-用户画像.md",
-    "AI模板/文章分析模板V1.0.md",
     "大V跟踪.base",
     "99--AI记忆/模板/financial-report-scoring-framework.md",
     "99--AI记忆/模板/文章分析模板v2.0.md",
@@ -228,7 +232,6 @@
     "99--AI记忆/templates/article-analysis-template-v2.md",
     "99--AI记忆/templates/buffett-investment-framework.md",
     "99--AI记忆/templates/article-analysis-template.md",
-    "99--AI记忆/templates/a-share-framework-comparison.md",
     "99--AI记忆/templates/china-top-fund-managers.md",
     "99--AI记忆/templates/howard-marks-investment-framework.md",
     "99--AI记忆/templates/industry-chain-analysis-framework.md",
@@ -241,12 +244,9 @@
     "01--持仓股(股票--大V--日期--观点）/招商银行/未确认 328808.crdownload",
     "01--持仓股(股票--大V--日期--观点）/招商银行",
     "01--持仓股(股票--大V--日期--观点）/新建文件夹",
-    "02--关注股(股票--大V--日期--观点）/阳光电源/阳光电源_300274_深度分析报告_完整版_20260311.md",
-    "04--行业资料/宏观研究/如何分析一个银行的优劣.md",
     "02--关注股(股票--大V--日期--观点）/阳光电源/未确认 827835.crdownload",
     "02--关注股(股票--大V--日期--观点）/阳光电源",
     "02--关注股(股票--大V--日期--观点）/新建文件夹",
-    "04--行业资料/宏观研究/电子布学习.md",
     "五矿资源机构对比.canvas",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
