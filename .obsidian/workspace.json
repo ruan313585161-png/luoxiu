@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99--AI记忆/MEMORY.md",
+                "file": "99--AI记忆/模板/02-持仓记录.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MEMORY"
+              "title": "02-持仓记录"
             }
           }
         ]
@@ -211,10 +211,10 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
+    "99--AI记忆/MEMORY.md",
     "99--AI记忆/模板/框架系统索引.md",
     "99--AI记忆/模板/05-配置信息.md",
     "05--技能学习/obsidian/0bsidian.md",
-    "99--AI记忆/MEMORY.md",
     "99--AI记忆/soul.md",
     "01--持仓股(股票--大V--日期--观点）/盐湖股份/盐湖股份.md",
     "03--大V跟踪/雪球网/飞翔芸/飞翔芸.md",
