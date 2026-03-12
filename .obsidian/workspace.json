@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "04--行业资料/宏观研究/各种估值方法学习.md",
+                "file": "99--AI记忆/模板/07-巴菲特价值投资框架.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "各种估值方法学习"
+              "title": "07-巴菲特价值投资框架"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "电子布",
+                "query": "dcf",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,8 +212,8 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
-    "04--行业资料/宏观研究/电子布基础.md",
     "04--行业资料/宏观研究/各种估值方法学习.md",
+    "04--行业资料/宏观研究/电子布基础.md",
     "05--技能学习/技能学习.md",
     "02--关注股(股票--大V--日期--观点）/中国中车/中国中车-深度投资研究报告_v2.1_完整版.md",
     "02--关注股(股票--大V--日期--观点）/中国中车/中国中车-补充分析报告-三大缺失维度.md",
