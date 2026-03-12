@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "DCF",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0392819568cbb6b3",
+  "active": "899a3911cb4e8f68",
   "lastOpenFiles": [
     "99--AI记忆/模板/18-SOTP分部估值框架.md",
     "01--持仓股(股票--大V--日期--观点）/招商银行/招商银行_600036_四位大师完整分析_20260311.md",
