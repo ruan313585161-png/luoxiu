@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tvly",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,8 +75,7 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -210,7 +209,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "0392819568cbb6b3",
+  "active": "899a3911cb4e8f68",
   "lastOpenFiles": [
     "05--技能学习/obsidian/0bsidian.md",
     "99--AI记忆/模板/05-配置信息.md",
