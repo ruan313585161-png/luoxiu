@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tvly",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,6 +212,8 @@
   },
   "active": "0392819568cbb6b3",
   "lastOpenFiles": [
+    "05--技能学习/obsidian/0bsidian.md",
+    "99--AI记忆/模板/05-配置信息.md",
     "99--AI记忆/MEMORY.md",
     "99--AI记忆/soul.md",
     "01--持仓股(股票--大V--日期--观点）/盐湖股份/盐湖股份.md",
@@ -245,8 +248,6 @@
     "03--大V跟踪/雪球网/KIMI2.5/KIMI2.5",
     "99--AI记忆/模板/18-SOTP分部估值框架.md",
     "01--持仓股(股票--大V--日期--观点）/招商银行/招商银行_600036_四位大师完整分析_20260311.md",
-    "99--AI记忆/模板/12-产业链分析框架.md",
-    "99--AI记忆/模板/11-技术分析框架.md",
     "五矿资源机构对比.canvas",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
