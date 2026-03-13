@@ -19,7 +19,7 @@ obsidian 大V跟踪笔记
 3 方便数据验证对比,比如PFD的研报出来,可以跟以前的数据直接对比,方便跟踪,修改
 
 **验证通过：** GitHub 用户名 `ruan313585161-png`
-**Token 是：** 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`
+**Token 是：** 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`
 仓库地址：https://github.com/ruan313585161-png/luoxiu/
 
 [tavily.com](https://tavily.com/)   export TAVILY_API_KEY=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
