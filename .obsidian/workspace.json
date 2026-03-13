@@ -70,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "DDM",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +91,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -225,7 +226,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "899a3911cb4e8f68",
+  "active": "26483c2bae267ca6",
   "lastOpenFiles": [
     "民总账号.md",
     "00--收纳箱/两种价值投资框架的本质.md",
