@@ -58,13 +58,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "98--二修专用/2026年3月14日/MEMORY.md",
+                "file": "01--持仓股(股票--大V--日期--观点）/藏格矿业/藏格矿业.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "MEMORY"
+              "title": "藏格矿业"
             }
           }
         ],
@@ -100,7 +100,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "归母净利润",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,7 +121,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -255,12 +256,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "368c23a7b848aeb6",
+  "active": "26483c2bae267ca6",
   "lastOpenFiles": [
     "01--持仓股(股票--大V--日期--观点）/藏格矿业/藏歌矿业25年年报.pdf",
+    "98--二修专用/2026年3月14日/MEMORY.md",
     "01--持仓股(股票--大V--日期--观点）/藏格矿业/未确认 738047.crdownload",
     "98--二修专用/2026年3月14日/2026-03-14.md",
-    "98--二修专用/2026年3月14日/MEMORY.md",
     "98--二修专用/2026年3月13日/MEMORY.md",
     "98--二修专用/2026年3月14日/05-配置信息.md",
     "98--二修专用/2026年3月13日/2026-03-13.md",
@@ -292,7 +293,6 @@
     "99--AI记忆/每日日记/未确认 681502.crdownload",
     "00--收纳箱/未确认 112611.crdownload",
     "98--二修专用/2026年3月8日",
-    "98--二修专用/2026年3月13日",
     "五矿资源机构对比.canvas",
     "Pasted image 20260307122708.png",
     "Pasted image 20260306181624.png",
