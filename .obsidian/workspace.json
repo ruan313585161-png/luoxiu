@@ -115,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "工业盐产能",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +136,8 @@
               "title": "书签"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,7 +271,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ba70d449987c06cd",
+  "active": "26483c2bae267ca6",
   "lastOpenFiles": [
     "06--工作资料/各种名词解释/扣非净利润.md",
     "06--工作资料/各种名词解释/归母净利润.md",
